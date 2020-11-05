@@ -1,0 +1,18 @@
+Bonjour Madame,Monsieur,
+voici mon projet de jeu pendu,
+pour le faire j'ai été obligé d'utiliser plusieurs bibliothèques 
+
+il y a un fichier requirement.txt 
+qui vous permettra normalement d'installer les paquets requis
+(j'ai obtenu cela avec "pip3 freeze")
+mais il y en a beaucoup alors je me suis peut etre trompé quelque part
+pour installer les requirements
+executer la commande :
+pour linux :
+pip install -r (chemin/du/fichier/requirements)
+
+pour windows :
+python3.8 -m pip install -r (chemin/du/fichier/requirements)
+
+
+
